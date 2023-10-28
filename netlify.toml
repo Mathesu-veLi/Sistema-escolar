@@ -1,0 +1,29 @@
+[[redirects]]
+  from = "/alunos"
+  to = "https://api-rest-d4ob.onrender.com/alunos"
+  status = 200
+
+[[redirects]]
+  from = "/alunos/*"
+  to = "https://api-rest-d4ob.onrender.com/alunos/:splat"
+  status = 200
+
+[[redirects]]
+  from = "/tokens"
+  to = "https://api-rest-d4ob.onrender.com/tokens"
+  status = 200
+
+[[redirects]]
+  from = "/users"
+  to = "https://api-rest-d4ob.onrender.com/users"
+  status = 200
+
+[[redirects]]
+  from = "/photos"
+  to = "https://api-rest-d4ob.onrender.com/photos"
+  status = 200
+
+[[redirects]]
+  from = "/images/*"
+  to = "https://api-rest-d4ob.onrender.com/images/:splat"
+  status = 200
